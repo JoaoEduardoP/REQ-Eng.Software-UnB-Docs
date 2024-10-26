@@ -1,3 +1,16 @@
-site_name: Projeto Requisitos de Software
-theme:
-  name: material
+site_name: Projeto Requisitos de Software     
+
+nav:
+  - PROJETO: index.md
+  - Visão Do Produto E Projeto: ProdutoProjeto
+
+markdown_extensions:
+  - tables
+  - md_in_html  
+
+theme: 
+  name: readthedocs
+  highlightjs: true
+plugins:
+  - search
+  - include_dir_to_nav
