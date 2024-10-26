@@ -16,4 +16,4 @@ Conheça cada um dos membros abaixo:
 | **Cargo** |Desenvolvedor | Desenvolvedor | Desenvolvedor |Desenvolvedor | Desenvolvedor |                                                    |
 
 ## Acesse nossa documentação e saiba mais: 
-[Github pages](https://pi1-2024-1.github.io/PI1-KATIAU-docs/)
+[Pages](https://joaoeduardop.github.io/REQ-Eng.Software-UnB-Docs/)
